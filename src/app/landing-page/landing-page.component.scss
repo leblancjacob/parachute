@@ -1,12 +1,19 @@
-.cont{
-    width:65vw;
-    margin: 0 auto;
-    background-color: #e0e0e0;
-    padding: 0 5vw;
-    height:100vh;
-}
-img{
-    display: block;
-    width: 30%;
-    margin: 0 auto;
-}
+$red: #ff4d5d;
+
+
+
+    h2{
+        background-color:$red;
+        text-align: center;
+        padding:20px;
+        color: #FFFFFF;
+        width: 50%;
+        border-radius: 10000px;
+        margin: 30px auto;
+        &:hover{
+            background-color: darken($red,30%);
+        }
+    }
+    h3{
+        text-align: center;
+    }

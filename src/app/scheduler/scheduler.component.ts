@@ -9,6 +9,10 @@ export class SchedulerComponent implements OnInit {
 
   constructor() { }
 
+
+  
+  formSubmit(){}
+
   ngOnInit() {
   }
 
