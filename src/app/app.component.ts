@@ -9,6 +9,6 @@ export class AppComponent {
   name:string = 'parachute';
 
   constructor(){
-    console.log(123)
+    
   }
 }

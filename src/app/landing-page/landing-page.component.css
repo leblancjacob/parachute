@@ -1,0 +1,12 @@
+.cont{
+    width:65vw;
+    margin: 0 auto;
+    background-color: #e0e0e0;
+    padding: 0 5vw;
+    height:100vh;
+}
+img{
+    display: block;
+    width: 30%;
+    margin: 0 auto;
+}
